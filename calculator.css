@@ -1,0 +1,28 @@
+#card{
+    height: 370px;
+    width: 250px;
+    margin-left: 37%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    background-color: #1b1845;
+    margin-top: 10%;
+}
+input{
+    padding: 5px;
+    margin-top: 8%;
+    margin-left: 15%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+}
+button{
+    margin-left: 8%;
+    padding: 8px;
+    width: 34px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px;
+}
+body{
+    background-color: gray;
+    display: block;
+}
